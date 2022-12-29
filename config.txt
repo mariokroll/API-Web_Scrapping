@@ -1,0 +1,6 @@
+https://api.sportsdata.io/v3/nba/stats/json/PlayerSeasonStats/2022
+https://www.sportytrader.es/cuotas/baloncesto/usa/nba-306/
+https://www.sportslogos.net/teams/list_by_league/6/National_Basketball_Association/NBA/logos/
+headers = {
+    Ocp-Apim-Subscription-Key: API-KEY
+}
